@@ -1,52 +1,161 @@
-# Hi 👋, I'm Mahmud
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Mahmud</h1>
+<h3 align="center">Software Engineering Student | Aspiring Software App Developer</h3>
 
-🎓 Software Engineering Student  
-💻 Aspiring Software Application Developer  
-🌱 Currently learning Mobile App Development & Software Design  
-🚀 Passionate about building useful applications and solving problems with code  
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **Mobile and Software Development projects**
-- 🌱 I’m learning **Java, Flutter, and Software Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Programming, and Software Development**
-- ⚡ Fun fact: I enjoy solving coding problems and learning new technologies
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Mobile+App+Developer;Java+Programmer;Open+Source+Learner;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-- Java
-- Dart
+🎓 Software Engineering Student from Bangladesh  
+💻 Passionate about Software & Mobile Application Development  
+🚀 Currently learning **Flutter, Java, and Software Architecture**  
+📚 Interested in **AI/ML and Backend Development**  
+🎯 Goal: Become a professional **Software Engineer & App Developer**
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://mahmud-portfolio.netlify.app
+- 📧 Email: mahmudminhaj2003@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/mohammad-mahmudul-hasan-9241a3378
+- 📘 Facebook: https://www.facebook.com
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,c,cpp" />
+</p>
+
+## 📱 Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+## 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
+</p>
+
+## ☁️ Hosting / Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,aws" />
+</p>
+
+## 🎨 Design Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,xd" />
+</p>
+
+## 🔄 Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+## 🧪 Testing
+- JUnit  
+- Selenium  
+- Mockito  
+
+## ⚙️ Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,docker,postman,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=minhajMahmud&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajMahmud&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajMahmud&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🎙 Voice Assistant App
+Flutter voice assistant using OpenAI API.
+
+🔗 https://github.com/minhajMahmud/Text_App_voice
+
+Tech:
 - Flutter
-- Git
-- GitHub
-- VS Code
-- Android Studio
+- Dart
+- API Integration
 
 ---
 
-## 📊 GitHub Stats
+### 📱 Mobile App Projects
+Simple mobile applications for learning UI, APIs and backend integration.
 
-![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhajMahmud&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=minhajMahmud&theme=tokyonight)
+Tech:
+- Flutter
+- Firebase
+- REST API
 
 ---
 
-## 📫 Connect with Me
+### 💻 Algorithm Practice
+Java implementations of common data structures and algorithms.
 
-- GitHub: https://github.com/minhajMahmud
-- LinkedIn: (add your LinkedIn here)
-- Email: (add your email here)
+Tech:
+- Java
+- Problem Solving
 
 ---
 
-⭐️ From [Mahmud](https://github.com/minhajMahmud)
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhajMahmud&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✔ Build 5+ real world projects  
+✔ Contribute to Open Source  
+✔ Learn System Design  
+✔ Get a **Software Engineering Internship**
+
+---
+
+# ⭐ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=minhajMahmud&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+⭐️ From **Mahmud**
