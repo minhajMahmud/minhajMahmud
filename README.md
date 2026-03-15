@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<a href="https://mahmud-portfolio.netlify.app">
+<a href="[https://mahmud-portfolio.netlify.app](https://mahmud-portfoli.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
