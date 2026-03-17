@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://mahmud-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://mahmud-portfoli.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammad-mahmudul-hasan-9241a3378)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mahmudminhaj2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/minhajMahmud)
