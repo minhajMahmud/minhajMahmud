@@ -1,207 +1,188 @@
-<!-- HEADER BANNER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c8cf8&height=220&section=header&text=Mahmud%20Minhaj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20🚀&descAlignY=58&descSize=18&descColor=c9d1ff"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&pause=1000\&color=7C8CF8\&center=true\&vCenter=true\&width=700\&lines=Building+Scalable+Software.;Flutter+%7C+Backend+%7C+DSA.;Competitive+Programmer.;Future+Software+Engineer.)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%F0%9F%9F%A2-7c8cf8?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-DSA%20%2B%20System%20Design-302b63?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Learning-Backend%20Engineering-0f0c29?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://mahmud-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammad-mahmudul-hasan-9241a3378)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mahmudminhaj2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/minhajMahmud)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+💡 Passionate about building **scalable systems & solving real-world problems**
+
+* 🎓 Software Engineering Student (Bangladesh)
+* 📱 Flutter Developer — crafting clean, production-ready apps
+* ⚙️ Backend Engineer (in progress) — Node.js & Spring Boot
+* 🧠 Strong focus on **Data Structures & Algorithms**
+* 🤖 Exploring **AI & Machine Learning**
+* 🎯 Goal: Secure a **Software Engineering Internship (2026)**
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/mahmudminhaj2003/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/scorpionspy)
+
+</div>
+
+* 🚀 Active problem solver on LeetCode & Codeforces
+* 📈 Practicing **Graphs, DP, Trees, Greedy, Backtracking**
+* ⚡ Building strong problem-solving intuition
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahmud%20Minhaj&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,c,cpp"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahmud Minhaj</h1>
-
-<h3 align="center">
-Software Engineering Student | Flutter Developer | Future Software Engineer
-</h3>
+### 📱 Mobile & Frontend
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Flutter+Developer;Java+Programmer;Backend+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=520&height=45">
+<img src="https://skillicons.dev/icons?i=flutter,html,css"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,firebase"/>
+</p>
+
+### ☁️ Tools & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,linux,figma,postman"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Featured Projects
 
-🎓 Software Engineering Student from **Bangladesh**
-💻 Passionate about **Software Development & Mobile Apps**
-🚀 Currently learning **Flutter, Backend Development, and System Design**
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-📚 Practicing **Data Structures & Algorithms**
-🎯 Goal: Become a **Professional Software Engineer**
+### 🧠 DSA Visualizer (Flagship Project 🔥)
 
----
+> Interactive platform to visualize algorithms step-by-step
 
-# 🌐 Connect With Me
+**Tech:** React · D3.js · Tailwind
+**Highlights:**
 
-<p align="center">
-
-<a href="https://mahmud-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:mahmudminhaj2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mohammad-mahmudul-hasan-9241a3378">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+* Sorting & Graph animations
+* Pathfinding algorithms
+* Step-by-step execution
 
 ---
 
-# 🚀 Tech Stack
+### 📱 Flutter Applications
 
-### 💻 Programming Languages
+> Real-world mobile apps with backend integration
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,dart,js,c,cpp" />
-</p>
+**Tech:** Flutter · Firebase
 
-### 📱 Mobile Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🖥 Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### 🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,firebase" />
-</p>
-
-### 🎨 Design Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-</p>
-
-### ⚙ Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,linux,git,github" />
-</p>
+* Authentication & real-time sync
+* Clean UI/UX
+* Scalable architecture
 
 ---
 
-# 🧠 Currently Learning
+### 🌐 Portfolio Website
 
-* System Design
-* Advanced Flutter
-* Backend Architecture
-* Artificial Intelligence
-* Competitive Programming
+> Personal developer portfolio
+
+🔗 https://mahmud-portfolio.netlify.app
 
 ---
 
-# 📂 Featured Projects
+## 📊 LeetCode Stats
 
+<div align="center">
 
+<img src="https://leetcard.jacoblin.cool/mahmudminhaj2003?theme=dark&font=Fira%20Code&ext=heatmap"/>
 
----
-
-## 📱 Flutter Learning Apps
-
-Simple mobile applications for UI design and backend integration.
-
-Tech:
-
-* Flutter
-* Firebase
-* REST APIs
+</div>
 
 ---
 
-## 💻 Data Structures & Algorithms
+## 📈 GitHub Analytics
 
-Java implementations of algorithms and problem-solving challenges.
+<div align="center">
 
-Tech:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhajMahmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-* Java
-* Algorithms
-* Data Structures
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajMahmud&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhajMahmud&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajMahmud&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajMahmud&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+## ⚡ GitHub Activity Graph
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=minhajMahmud&theme=tokyonight&row=1&column=7"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhajMahmud&theme=tokyonight"/>
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhajMahmud&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/minhajMahmud/minhajMahmud/output/github-snake-dark.svg"/>
 
-# 💡 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 🔨 Currently Working On
 
-✔ Build **5+ real-world software projects**
-✔ Contribute to **Open Source Projects**
-✔ Master **System Design**
-✔ Get a **Software Engineering Internship**
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=minhajMahmud&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+* 🚀 Building **DSA Visualizer (Full System Project)**
+* 📱 Advanced **Flutter applications**
+* 📚 Learning **System Design**
+* 🧠 Solving problems daily
 
 ---
 
-<p align="center">
-⭐️ From <b>Mahmud Minhaj</b>
-</p>
+## 🎯 2026 Goals
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+* ✅ Build 5+ real-world projects
+* 🔄 Contribute to open source
+* 🔄 Master system design
+* 🎯 Get Software Engineering Internship
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=minhajMahmud&label=Profile%20Views&color=7c8cf8&style=flat-square"/>
+
+<br/><br/>
+
+⭐ *“First, solve the problem. Then, write the code.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c8cf8,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
