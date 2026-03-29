@@ -27,7 +27,7 @@
 
 * 🎓 Software Engineering Student (Bangladesh)
 * 📱 Flutter Developer — crafting clean, production-ready apps
-* ⚙️ Backend Engineer (in progress) — Node.js & Spring Boot
+* ⚙️ Backend Engineer (in progress) — Node.js 
 * 🧠 Strong focus on **Data Structures & Algorithms**
 * 🤖 Exploring **AI & Machine Learning**
 * 🎯 Goal: Secure a **Software Engineering Internship (2026)**
