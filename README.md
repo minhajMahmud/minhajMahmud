@@ -108,7 +108,7 @@
 
 > Personal developer portfolio
 
-🔗 https://mahmud-portfolio.netlify.app
+🔗 https://mahmud-portfoli.netlify.app/
 
 ---
 
