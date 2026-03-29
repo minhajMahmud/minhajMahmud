@@ -103,6 +103,144 @@
 * Scalable architecture
 
 ---
+# Projects Overview
+
+## 🔥 QuickBite — Food Ordering App
+
+**GitHub:** [https://github.com/minhajMahmud/QuickBite](https://github.com/minhajMahmud/QuickBite)
+
+🍔 Full-stack food ordering web app.
+
+### 🛠️ Tech Stack
+
+* Frontend: Flutter
+* Backend: Node.js + Express
+* Database: PostgreSQL
+
+### ⭐ Features
+
+* Browse menu
+* Add to cart & checkout
+* Admin dashboard
+
+---
+
+## 🏥 NSTU Medical Center
+
+**GitHub:** [https://github.com/minhajMahmud/NSTU-Medical-Center](https://github.com/minhajMahmud/NSTU-Medical-Center)
+
+🩺 Medical center management system.
+
+### 🛠️ Tech Stack
+
+* Flutter
+* Backend framework (Node.js)
+* Database (PostgreSQL)
+
+### ⭐ Features
+
+* Clinic services info
+* Appointment management
+* Patient records
+
+---
+
+## 🤖 Smart_Gen_ZAI — AI Assistant
+
+**GitHub:** [https://github.com/minhajMahmud/Smart_Gen_ZAI](https://github.com/minhajMahmud/Smart_Gen_ZAI)
+
+👾 AI-powered assistant app.
+
+### 🛠️ Tech Stack
+
+* Python / Node.js backend
+* AI APIs (OpenAI GPT)
+* Frontend: Flutter
+
+### ⭐ Features
+
+* AI text generation
+* Smart suggestions for Gen Z users
+
+---
+
+## 🏃 Run Booster Game
+
+**GitHub:** [https://github.com/minhajMahmud/Run_Booster](https://github.com/minhajMahmud/Run_Booster)
+
+🏃‍♂️ Running Game.
+
+### 🛠️ Tech Stack
+
+* Mobile: Flutter 
+* Backend: Firebase
+* APIs for tracking
+
+### ⭐ Features
+
+* Track runs & goals
+* GPS distance tracking
+* Pace analytics
+
+---
+
+## 🎮 minhajmario — Mario-style Game
+
+**GitHub:** [https://github.com/minhajMahmud/minhajmario](https://github.com/minhajMahmud/minhajmario)
+
+🎮 2D platformer game inspired by Mario.
+
+### 🛠️ Tech Stack
+
+* Unity / Godot engine
+* Java
+* Sprites & animations
+
+### ⭐ Features
+
+* Player movement & physics
+* Levels, enemies, collectibles
+* Score system
+
+---
+
+## 🎙️ Voice_text_AI — Speech-to-Text App
+
+**GitHub:** [https://github.com/minhajMahmud/Voice_text_AI](https://github.com/minhajMahmud/Voice_text_AI)
+
+🎤 Convert voice to text with AI enhancement.
+
+### 🛠️ Tech Stack
+
+* Flutter
+* AI APIs (OpenAI)
+* Backend: Flask / FastAPI
+* Frontend: React / Flutter
+
+### ⭐ Features
+
+* Live voice transcription
+* AI-based text analysis
+
+---
+
+## 🎵 Music Player
+
+**GitHub:** [https://github.com/minhajMahmud/Music_player](https://github.com/minhajMahmud/Music_player)
+
+🎶 Full-featured music player app.
+
+### 🛠️ Tech Stack
+
+* Mobile: Flutter 
+* Media playback libraries
+
+### ⭐ Features
+
+* Play, pause, skip tracks
+* Playlist support
+* Animated UI controls
+
 
 ### 🌐 Portfolio Website
 
