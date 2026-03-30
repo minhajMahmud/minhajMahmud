@@ -286,13 +286,13 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/minhajMahmud/minhajMahmud/output/github-snake-dark.svg"/>
-
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhajMahmud/minhajMahmud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhajMahmud/minhajMahmud/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/minhajMahmud/minhajMahmud/output/github-snake.svg" />
+</picture>
 </div>
-
 ---
 
 ## 🔨 Currently Working On
