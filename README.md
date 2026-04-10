@@ -126,6 +126,10 @@
 ---
 
 ## 🏥 NSTU Medical Center
+## NSTU MEDICAL CENTER ANDROID APP =>
+https://medical-center-frontend.vercel.app/
+## NSTU MEDICAL CENTER WEB APP =>
+https://medical-center-frontend-web.vercel.app/
 
 **GitHub:** [https://github.com/minhajMahmud/NSTU-Medical-Center](https://github.com/minhajMahmud/NSTU-Medical-Center)
 
